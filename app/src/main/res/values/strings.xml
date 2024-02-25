@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    //Headings
+    <string name="heading_one">Workout Anywhere</string>
+    <string name="heading_two">Learn Techniques</string>
+    <string name="heading_three">Stay Strong and Healthy</string>
+
+    //Description
+    <string name="desc_one">You can do your workout at home without any equipment, outside or at the gym.</string>
+    <string name="desc_two">Our workout programs are made by professionals.</string>
+    <string name="desc_three">We want you to fully enjoy the program and stay healthy and positive.</string>
+    <string name="title_activity_calf_raises">CalfRaises</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
